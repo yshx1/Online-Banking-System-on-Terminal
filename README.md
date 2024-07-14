@@ -24,7 +24,7 @@ The Basic Banking System project is a simple Java application that simulates a b
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/basic-Online-banking-system.git
+   git clone https://github.com/yshx1/basic-Online-banking-system.git
    cd basic-Online-banking-system
    ```
 
